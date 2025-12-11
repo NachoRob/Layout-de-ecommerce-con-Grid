@@ -1,3 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+}
+
 header {
   grid-area: header;
   background-color: #66f;
@@ -21,5 +27,19 @@ footer {
     "header header"
     "menu main"
     "footer footer";
+    grid-template-columns: 250px 1fr;
   gap: 10px;
+}
+.main-flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; 
+
+}
+
+.elementos-flex img {
+  width: 100%;
+  height: 350px; /* Altura de ejemplo */
+  object-fit: contain; /* O puedes probar 'contain' */
+  object-position: center;
 }

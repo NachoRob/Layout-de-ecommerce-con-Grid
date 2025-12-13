@@ -36,6 +36,9 @@ El layout respeta la siguiente distribución general maquetada en CSS Grid:
 | `main` | `<main>` | Contenedor Flex de las Tarjetas de Producto |
 | `footer` | `<footer>` | Copyright e información legal |
 
+## GitHub Pages
+[https://nachorob.github.io/Layout-de-ecommerce-con-Grid/](https://nachorob.github.io/Layout-de-ecommerce-con-Grid/)
+
 ## 🚀 Cómo Ejecutar
 
 1.  Clona este repositorio:
